@@ -1,0 +1,3 @@
+- Hello, I'm @matthew1v known as vex (@vexgamedev discord)
+- Experienced lua coder
+- Currently interested in exploiting roblox game features
